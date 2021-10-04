@@ -5,7 +5,7 @@
     {
       "name": "check-virtio.sh",
       "url": "https://raw.githubusercontent.com/wuyiwangzi/redpill-virtio/master/src/check-virtio.sh",
-      "sha256": "5932dcc688caf4002b6b382cefd11a0f6de276fca3e9e2495bb069d33fcae0fc",
+      "sha256": "8a4713e3c0c0ab2a6c678a68d0a1aa9303e6fa229fb82dccc3139b39aa904d10",
       "packed": false
     },
     {
